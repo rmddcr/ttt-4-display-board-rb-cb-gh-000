@@ -9,10 +9,6 @@ def display_board(input_array)
 
 
 end
-# out the current state.
-#    |   |
-# -----------
-#    | X |
-# -----------
-#    |   |
-```
+
+board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+display_board(board)
