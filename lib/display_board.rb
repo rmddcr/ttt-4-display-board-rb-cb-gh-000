@@ -10,5 +10,5 @@ def display_board(input_array)
 
 end
 
-board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
-display_board(board)
+# board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+# display_board(board)
